@@ -1,0 +1,9 @@
+title: Phoenix McDonagh-English
+description: UX/UI Portfolio
+theme: minima
+# Keep these links visible in the header
+minima:
+  skin: classic
+  social_links:
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/phoenixmcdonaghenglish" }
+    - { platform: figma, user_url: "https://www.figma.com/@yourhandle" }
